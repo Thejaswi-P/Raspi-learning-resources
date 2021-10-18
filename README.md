@@ -14,4 +14,3 @@ A set resources to get started with raspberry pi
 
 * [Raspberry Pi Press](https://www.youtube.com/c/RaspberryPiPress)
 * [Tinkernut Raspberry Pi Playlist](https://www.youtube.com/playlist?list=PLlg8lN4r9qWiTAr6LyE4ZrJWzkDbnIBy_)
-* [Raspberry Pi Press](https://www.youtube.com/c/RaspberryPiPress)
