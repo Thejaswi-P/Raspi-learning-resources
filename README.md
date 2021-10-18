@@ -12,4 +12,4 @@ A set resources to get started with raspberry pi
 
 ### Videos
 
-*[Raspberry Pi Press](https://www.youtube.com/c/RaspberryPiPress)
+* [Raspberry Pi Press](https://www.youtube.com/c/RaspberryPiPress)
